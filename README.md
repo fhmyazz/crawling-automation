@@ -1,4 +1,4 @@
-# automation
+# Crawling and automation
 Searching in google with a keyword using Selenium (Python)
 
 Details:
